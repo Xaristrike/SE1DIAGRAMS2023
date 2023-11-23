@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T16:46:41.697Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="cF66OnFB0XeXmvMUxq6i" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-23T16:56:11.571Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="r4n7hyul0PoCzQEExwh7" version="22.1.3" type="github" pages="4">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="pZjnXqSqqLrfiQQjLbsX-99" value="ΔΙΑΧΕΙΡΗΣΗ ΛΟΓΑΡΙΑΣΜΩΝ ΧΡΗΣΤΩΝ" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="495" y="810" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pZjnXqSqqLrfiQQjLbsX-107" value="ΚΕΝΤΡΙΚΟ ΣΥΣΤΗΜΑ" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="pZjnXqSqqLrfiQQjLbsX-107" value="ΣΥΣΤΗΜΑ" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="310" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pZjnXqSqqLrfiQQjLbsX-115" value="ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=1;bottom=1;fillColor=none;left=0;right=0;" parent="1" vertex="1">
@@ -118,28 +118,42 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gsW-XlBhcexn18_gbxGO-1" value="&lt;div&gt;ΔΙΑΧΕΙΡΗΣΗ ΑΝΤΑΛΑΚΤΙΚΩΝ&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="330" y="-460" width="80" height="80" as="geometry" />
+          <mxGeometry x="328" y="-730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gsW-XlBhcexn18_gbxGO-2" value="ΔΙΑΧΕΙΡΙΣΗ ΚΑΥΣΙΜΩΝ" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="440" y="-460" width="80" height="80" as="geometry" />
+          <mxGeometry x="438" y="-730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gsW-XlBhcexn18_gbxGO-3" value="ΔΙΑΧΕΙΡΗΣΗ ΛΟΓΑΡΙΑΣΜΩΝ ΧΡΗΣΤΩΝ" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="550" y="-460" width="80" height="80" as="geometry" />
+          <mxGeometry x="553" y="-730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gsW-XlBhcexn18_gbxGO-4" value="ΔΙΑΧΕΙΡΗΣΗ ΠΑΡΚΑΡΙΣΜΑΤΟΣ" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="220" y="-460" width="80" height="80" as="geometry" />
+          <mxGeometry x="218" y="-730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="blnml_ldSb0ScRBL_w_9-1" value="ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=1;bottom=1;fillColor=none;left=0;right=0;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-230" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gln_kRWUV5ZVzu4qQ7Gm-1" value="&lt;div&gt;ΔΙΑΧΕΙΡΙΣΤΗΣ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-670" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="-1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gln_kRWUV5ZVzu4qQ7Gm-2" value="&lt;div&gt;ΠΕΛΑΤΗΣ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-670" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="-1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gln_kRWUV5ZVzu4qQ7Gm-3" value="ΕΡΓΑΖΟΜΕΝΟΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-670" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="-1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gln_kRWUV5ZVzu4qQ7Gm-5" value="&lt;div&gt;(1)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΣΥΣΤΗΜΑ ΣΤΑΘΜΟΥ&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MijS1WAfAghIPZlOO9dR-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gln_kRWUV5ZVzu4qQ7Gm-3" target="Gln_kRWUV5ZVzu4qQ7Gm-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="-740" as="sourcePoint" />
+            <mxPoint x="470" y="-740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MijS1WAfAghIPZlOO9dR-2" value="Αυθεντικοποίηση" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MijS1WAfAghIPZlOO9dR-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="14" y="9" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
