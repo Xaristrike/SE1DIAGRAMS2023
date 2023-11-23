@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T17:37:32.733Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="SjkmiuD2tCWlnZDoCX70" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-23T17:41:08.890Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="JzfpGfg9T5T8aWU0NfB3" version="22.1.3" type="github" pages="4">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="819" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tc1sJgaj-yxreX8ZeLVH" name="Page-2">
-    <mxGraphModel dx="3457" dy="3640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4037" dy="3960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,7 +230,7 @@
         <mxCell id="FMyDlYcTHc3wG3qEf-sw-4" value="&lt;div&gt;Στοιχεία πελατών&lt;/div&gt;&lt;div&gt;Κατάσταση συστήματος&lt;/div&gt;&lt;div&gt;Ειδοποιήσεις έλλειψης&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="FMyDlYcTHc3wG3qEf-sw-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FMyDlYcTHc3wG3qEf-sw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.338;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gln_kRWUV5ZVzu4qQ7Gm-1" target="Gln_kRWUV5ZVzu4qQ7Gm-5">
+        <mxCell id="FMyDlYcTHc3wG3qEf-sw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.338;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="Gln_kRWUV5ZVzu4qQ7Gm-1" target="Gln_kRWUV5ZVzu4qQ7Gm-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FMyDlYcTHc3wG3qEf-sw-6" value="&lt;div&gt;Αυθεντικοποίηση&lt;br&gt;&lt;/div&gt;&lt;div&gt;Εντολές διαχείρησης&lt;/div&gt;&lt;div&gt;Εντολές αγοράς&lt;/div&gt;&lt;div&gt;Εντολές αλλαγής δεδομένων&lt;/div&gt;&lt;div&gt;Εντολές αλλαγής τιμών&lt;/div&gt;&lt;div&gt;Παραγγελίες υλικών και καυσίμων&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
