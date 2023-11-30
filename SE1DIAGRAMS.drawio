@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T15:42:07.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ydw4HVIhbvq7iSdVLbXQ" version="22.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-30T15:43:47.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BkfteWGFwVZ6izn-0wB_" version="22.1.5" type="github" pages="7">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1072,14 +1072,27 @@
             <mxPoint x="370" y="340" as="sourcePoint" />
             <mxPoint x="470" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="100" y="340" />
-              <mxPoint x="100" y="60" />
+              <mxPoint x="10" y="340" />
+              <mxPoint x="10" y="60" />
               <mxPoint x="460" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="j1_z5grxWHZrUllLF-lg-2" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="j1_z5grxWHZrUllLF-lg-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j1_z5grxWHZrUllLF-lg-2" value="Επυτιχία/Αποτυχία Σύνδεσης" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="j1_z5grxWHZrUllLF-lg-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="73" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1_z5grxWHZrUllLF-lg-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.22;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSD1OelPxPUcd1n9YKNo-1" target="oTu5XgVvsjYWkeSk0ne5-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="180" as="sourcePoint" />
+            <mxPoint x="470" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1_z5grxWHZrUllLF-lg-4" value="Επυτιχία/Αποτυχία Σύνδεσης" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="j1_z5grxWHZrUllLF-lg-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-44" y="-42" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
