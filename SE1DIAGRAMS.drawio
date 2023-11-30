@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T14:40:32.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kHPfqPt6Y4-7COqRz6zw" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-30T14:45:27.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Y_LuvCx2xZbs5kV0V5oA" version="22.1.5" type="github" pages="4">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="1221" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -621,7 +621,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fWIwdu56dfDtXtpqO-aJ" name="Page-4">
-    <mxGraphModel dx="1221" dy="2869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="2987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -696,7 +696,7 @@
         </mxCell>
         <mxCell id="fb2b9NKIqywXk73USdex-13" value="Τημολογια παρκαρισματος&lt;br&gt;Ελευθερες θεσις" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="fb2b9NKIqywXk73USdex-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="51" y="-24" as="offset" />
+            <mxPoint x="61" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fb2b9NKIqywXk73USdex-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.008;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qy2-NrmQ0YPFV6Z0pYgS-1" target="n4Bwv6tfqqoi8NOuWylS-1">
@@ -751,6 +751,46 @@
         </mxCell>
         <mxCell id="mWgy5i7DmAPDnzWKqent-4" value="Τημολογια παρκαρισματος&lt;br&gt;Ελευθερες θεσις" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mWgy5i7DmAPDnzWKqent-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FBijQflEEqlvVJHOl8ny-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.408;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="R6AZZCkubViBJoT3hjhV-1" target="xpE7oVKuY19-OdYWGlb_-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="-960" as="sourcePoint" />
+            <mxPoint x="520" y="-960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FBijQflEEqlvVJHOl8ny-2" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ελευθερες θεσις&lt;/span&gt;&#xa;&#xa;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="FBijQflEEqlvVJHOl8ny-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="42" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FBijQflEEqlvVJHOl8ny-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;curved=1;" edge="1" parent="1" source="n4Bwv6tfqqoi8NOuWylS-1" target="xpE7oVKuY19-OdYWGlb_-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-890" as="sourcePoint" />
+            <mxPoint x="480" y="-890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="72" y="-410" />
+              <mxPoint x="920" y="-410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FBijQflEEqlvVJHOl8ny-5" value="ωρες κρατισις" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="FBijQflEEqlvVJHOl8ny-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FBijQflEEqlvVJHOl8ny-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;curved=1;" edge="1" parent="1" source="n4Bwv6tfqqoi8NOuWylS-1" target="xpE7oVKuY19-OdYWGlb_-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="-880" as="sourcePoint" />
+            <mxPoint x="440" y="-880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="-960" />
+              <mxPoint x="30" y="-1340" />
+              <mxPoint x="425" y="-1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FBijQflEEqlvVJHOl8ny-9" value="ωρες κρατισις" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="FBijQflEEqlvVJHOl8ny-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="17" y="20" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
