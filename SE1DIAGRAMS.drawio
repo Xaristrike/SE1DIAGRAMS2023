@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T10:04:21.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="w5Jtg3lhyIIcx0X5X0-U" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-17T10:08:12.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OnGKSV4jR18h4kSXwu62" version="22.1.11" type="github" pages="11">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="1018" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2540,6 +2540,210 @@
         <mxCell id="Unxw44VapJn6K0agJIOG-56" value="&lt;div&gt;Συναλαγές&lt;br&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Unxw44VapJn6K0agJIOG-55">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-75" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZbuqAEj_iV2XUrQ7vMe8" name="4-new">
+    <mxGraphModel dx="1221" dy="2857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-1" value="ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=1;bottom=1;fillColor=none;left=0;right=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-680" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-2" value="&lt;div&gt;ΔΙΑΧΕΙΡΙΣΤΗΣ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-3" value="&lt;div&gt;ΠΕΛΑΤΗΣ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-4" value="ΕΡΓΑΖΟΜΕΝΟΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="-1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-5" value="&lt;div&gt;(2.1)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΔΙΑΧΕΙΡΗΣΗ ΘΕΣΗΣ&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-6" value="&lt;div&gt;(2.2)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΔΙΑΧΕΙΡΗΣΗ&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ΔΕΔΟΜΕΝΩΝ&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ΑΥΤΟΚΙΝΗΤΩΝ&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-7" value="&lt;div&gt;(2.3)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΣΥΣΤΗΜΑ ΧΡΕΩΣΗΣ&lt;/div&gt;&lt;div&gt;ΠΑΡΚΑΡΙΣΜΑΤΟΣ&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.302;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.993;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-1" target="NbcUK2Iroo3zGOHKWHWI-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-930" as="sourcePoint" />
+            <mxPoint x="560" y="-930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-9" value="Ελευθερες θεσις" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=55;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="27" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.035;entryY=0.029;entryDx=0;entryDy=0;exitX=0.638;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-5" target="NbcUK2Iroo3zGOHKWHWI-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="-900" as="sourcePoint" />
+            <mxPoint x="560" y="-930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-11" value="Κρατιμενες θεσης" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=60;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.855;exitY=-0.026;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-1" target="NbcUK2Iroo3zGOHKWHWI-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="-830" as="sourcePoint" />
+            <mxPoint x="410" y="-830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-15" value="Ωρα σταθμευσης&lt;br&gt;Θεση&lt;br&gt;Αριθμος πινακιδας" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-7" target="NbcUK2Iroo3zGOHKWHWI-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="-890" as="sourcePoint" />
+            <mxPoint x="390" y="-880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-17" value="Τημολογια παρκαρισματος&lt;br&gt;Ελευθερες θεσις" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="61" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.008;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-6" target="NbcUK2Iroo3zGOHKWHWI-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="-960" as="sourcePoint" />
+            <mxPoint x="510" y="-940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-19" value="Μεγεθος μοντελου αυτοκινιτου" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="17" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.252;exitY=0.089;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-5" target="NbcUK2Iroo3zGOHKWHWI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="-1050" as="sourcePoint" />
+            <mxPoint x="330" y="-1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-21" value="Ειδοποιηση κρατισις" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=-70;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-3" target="NbcUK2Iroo3zGOHKWHWI-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="-1050" as="sourcePoint" />
+            <mxPoint x="330" y="-1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-23" value="ωρα κρατισις" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=-60;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-7" target="NbcUK2Iroo3zGOHKWHWI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="-1010" as="sourcePoint" />
+            <mxPoint x="580" y="-1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-25" value="Τημολογιο παρκαρισματος" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=15;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="-42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.402;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-7" target="NbcUK2Iroo3zGOHKWHWI-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="-1090" as="sourcePoint" />
+            <mxPoint x="570" y="-1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-27" value="Τημολογια παρκαρισματος&lt;br&gt;Ελευθερες θεσις" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.408;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-7" target="NbcUK2Iroo3zGOHKWHWI-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="-960" as="sourcePoint" />
+            <mxPoint x="520" y="-960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-29" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ελευθερες θεσις&lt;/span&gt;&#xa;&#xa;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=-45;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;curved=1;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-5" target="NbcUK2Iroo3zGOHKWHWI-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-890" as="sourcePoint" />
+            <mxPoint x="480" y="-890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="72" y="-410" />
+              <mxPoint x="920" y="-410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-31" value="ωρες κρατισις" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;curved=1;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-5" target="NbcUK2Iroo3zGOHKWHWI-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="-880" as="sourcePoint" />
+            <mxPoint x="440" y="-880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="-960" />
+              <mxPoint x="30" y="-1340" />
+              <mxPoint x="425" y="-1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-33" value="ωρες κρατισις" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="17" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.627;exitY=-0.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-1" target="NbcUK2Iroo3zGOHKWHWI-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="-690" as="sourcePoint" />
+            <mxPoint x="470" y="-940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-35" value="Αριθμος πινακιδας" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=60;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.56;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-1" target="NbcUK2Iroo3zGOHKWHWI-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="-940" as="sourcePoint" />
+            <mxPoint x="470" y="-940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-40" value="Μεγεθος μοντελου αυτοκινιτου" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=75;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.226;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-1" target="NbcUK2Iroo3zGOHKWHWI-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="-670" as="sourcePoint" />
+            <mxPoint x="149" y="-941" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-42" value="ωρα διαθετιμοτιτας" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=45;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="12" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.006;entryY=0.359;entryDx=0;entryDy=0;exitX=0.404;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="NbcUK2Iroo3zGOHKWHWI-5" target="NbcUK2Iroo3zGOHKWHWI-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="121" y="-908" as="sourcePoint" />
+            <mxPoint x="255" y="-668" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbcUK2Iroo3zGOHKWHWI-44" value="ωρα κρατισις" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=45;" connectable="0" vertex="1" parent="NbcUK2Iroo3zGOHKWHWI-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="27" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
