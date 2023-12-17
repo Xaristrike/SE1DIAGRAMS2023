@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T09:41:25.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="STj6cuyXC5f708TIG1RR" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-17T09:41:36.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Sub1K01OcV0J5vd-1kmy" version="22.1.11" type="github" pages="10">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="1018" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1997,7 +1997,7 @@
           <mxGeometry x="400" y="730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="khAulZlakLkR68tC73fQ-8" value="&lt;div&gt;(1.4)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΣΥΣΤΗΜΑ ΕΠΕΞΕΡΓΑΣΙΑΣ ΚΑΤΑΛΟΓΩΝ&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="760" width="80" height="80" as="geometry" />
+          <mxGeometry x="1110" y="760" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="khAulZlakLkR68tC73fQ-9" value="&lt;div&gt;(1.5)&lt;/div&gt;&lt;div&gt;ΣΥΣΤΗΜΑ&lt;/div&gt;&lt;div&gt;ΔΙΑΧΕΙΡΗΣΗΣ ΔΕΔΟΜΕΝΩΝ&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="970" y="490" width="110" height="110" as="geometry" />
