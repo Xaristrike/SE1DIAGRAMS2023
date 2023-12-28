@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T10:11:41.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2Me9Y4J2-UcWqxPSkcjY" version="22.1.15" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-12-28T10:12:25.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WlTHIAWvjN6q6fjZdG5B" version="22.1.15" type="github" pages="15">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="1221" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3313,7 +3313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xn5cijxHMQi90zGN2AIt" name="ERD">
-    <mxGraphModel dx="2785" dy="1226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4585" dy="2195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4230,6 +4230,11 @@
               <mxPoint x="1130" y="805" />
               <mxPoint x="1130" y="-120" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZJNPQyw0PPpmD4curccS-6" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Ν&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UUyg5E0VySgHEGdD0i86-69">
+          <mxGeometry x="0.6367" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UUyg5E0VySgHEGdD0i86-70" value="id πελάτη" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
