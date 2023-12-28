@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T10:01:23.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ChAqEsAoRbeiFwuXtvAA" version="22.1.15" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-12-28T10:02:57.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eHsvcquNhnNjgDbo7uRP" version="22.1.15" type="github" pages="15">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="1221" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3450,7 +3450,7 @@
         <mxCell id="rLYNfQFd3DZRt19RYcJI-50" value="ΠελάτηςID&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="1160" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rLYNfQFd3DZRt19RYcJI-51" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Αριθμός Κυκλοφορίας&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rLYNfQFd3DZRt19RYcJI-51" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Κωδικός&amp;nbsp; υπηρεσία&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="810" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rLYNfQFd3DZRt19RYcJI-52" value="Ημερομηνία Πώλησης" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -3465,7 +3465,7 @@
             <mxPoint x="540" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rLYNfQFd3DZRt19RYcJI-55" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="rLYNfQFd3DZRt19RYcJI-47" edge="1">
+        <mxCell id="rLYNfQFd3DZRt19RYcJI-55" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="rLYNfQFd3DZRt19RYcJI-47" target="UUyg5E0VySgHEGdD0i86-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="630" as="sourcePoint" />
             <mxPoint x="640.2619304612581" y="749.81395106533" as="targetPoint" />
@@ -4016,10 +4016,10 @@
           <mxGeometry x="-370" y="870" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UUyg5E0VySgHEGdD0i86-6" value="Ημερομηνία&lt;br&gt;παράδοσης υπηρεσίας" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="160" y="600" width="100" height="70" as="geometry" />
+          <mxGeometry x="170" y="550" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UUyg5E0VySgHEGdD0i86-8" value="id υπαλλήλον" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="200" y="700" width="100" height="70" as="geometry" />
+          <mxGeometry x="210" y="710" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UUyg5E0VySgHEGdD0i86-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLYNfQFd3DZRt19RYcJI-69" target="rLYNfQFd3DZRt19RYcJI-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4058,7 +4058,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UUyg5E0VySgHEGdD0i86-16" value="Kατάσταση" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="790" width="100" height="70" as="geometry" />
+          <mxGeometry x="190" y="800" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UUyg5E0VySgHEGdD0i86-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="UUyg5E0VySgHEGdD0i86-16" target="rLYNfQFd3DZRt19RYcJI-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4088,7 +4088,7 @@
           <mxGeometry x="-150" y="1110" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UUyg5E0VySgHEGdD0i86-23" value="IS A" style="triangle;whiteSpace=wrap;html=1;allowArrows=1;connectable=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="100" y="860" width="90" height="80" as="geometry" />
+          <mxGeometry x="80" y="860" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UUyg5E0VySgHEGdD0i86-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="UUyg5E0VySgHEGdD0i86-23" target="rLYNfQFd3DZRt19RYcJI-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4226,6 +4226,12 @@
               <mxPoint x="1130" y="-120" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UUyg5E0VySgHEGdD0i86-70" value="id πελάτη" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="590" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UUyg5E0VySgHEGdD0i86-71" value="Χρεώνεται" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="510" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
