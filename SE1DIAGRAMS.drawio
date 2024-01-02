@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T17:27:39.058Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="6L08h_UofvnyWA-h2PbE" version="22.1.16" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-01-02T17:30:33.841Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="IaLv84D-KDRloZ8qi1B_" version="22.1.16" type="github" pages="16">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="1434" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4563,7 +4563,7 @@
         <mxCell id="npLkYL2bOqLXUnJsMwzE-60" value="ΔΙΑΒΑΣΕ ΑΡΙΘΜΟΣ ΚΑΡΤΑΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="451" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="npLkYL2bOqLXUnJsMwzE-62" value="ΔΙΑΒΑΣΕ ΗΜΕΡΟΜΙΝΕΙΑ ΛΥΞΗΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="npLkYL2bOqLXUnJsMwzE-62" value="ΔΙΑΒΑΣΕ ΗΜΕΡΟΜΗΝΙΑ ΛΗΞΗΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="npLkYL2bOqLXUnJsMwzE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.358;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="npLkYL2bOqLXUnJsMwzE-57" target="npLkYL2bOqLXUnJsMwzE-62">
@@ -4578,6 +4578,15 @@
         </mxCell>
         <mxCell id="npLkYL2bOqLXUnJsMwzE-66" value="ΣΥΣΤΗΜΑ ΕΚΔΟΣΗΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npLkYL2bOqLXUnJsMwzE-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="npLkYL2bOqLXUnJsMwzE-68" target="npLkYL2bOqLXUnJsMwzE-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="npLkYL2bOqLXUnJsMwzE-68" value="&lt;div&gt;(3.3)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΣΥΣΤΗΜΑ ΣΤΟΙΧΕΙΩΝ ΑΥΤΟΚΙΝΗΤΟΥ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npLkYL2bOqLXUnJsMwzE-69" value="&amp;nbsp;ΔΙΑΒΑΣΕ ΑΡΙΘΜΟ ΠΙΝΑΚΙΔΑΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
