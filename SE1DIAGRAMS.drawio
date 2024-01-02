@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T18:07:36.103Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Az-ggrs0V0reNK1Q48Dc" version="22.1.16" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-01-02T18:14:24.658Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="7_JWNZiDrdZeltGrv1CK" version="22.1.16" type="github" pages="16">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="1434" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4734,6 +4734,54 @@
         </mxCell>
         <mxCell id="-6ytyg_gSDtcVMFEcZmj-19" value="&lt;div&gt;(5.2)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΚΟΣΤΟΣ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="-6ytyg_gSDtcVMFEcZmj-21" target="-6ytyg_gSDtcVMFEcZmj-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-6ytyg_gSDtcVMFEcZmj-21" target="-6ytyg_gSDtcVMFEcZmj-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="-6ytyg_gSDtcVMFEcZmj-21" target="-6ytyg_gSDtcVMFEcZmj-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="-6ytyg_gSDtcVMFEcZmj-21" target="-6ytyg_gSDtcVMFEcZmj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="-6ytyg_gSDtcVMFEcZmj-21" target="-6ytyg_gSDtcVMFEcZmj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-21" value="&lt;div&gt;(4.1)&lt;/div&gt;&lt;div&gt;ΠΛΗΡΩΜΗ ΥΠΑΛΛΗΛΟΥ&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-151" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-24" value="ΔΙΑΒΑΣΕ ΟΝΟΜΑ ΚΑΡΤΑΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-25" value="ΔΙΑΒΑΣΕ ΑΡΙΘΜΟΣ ΚΑΡΤΑΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-26" value="ΔΙΑΒΑΣΕ ΗΜΕΡΟΜΗΝΙΑ ΛΗΞΗΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-27" value="&lt;div&gt;ΔΙΑΒΑΣΕ CVV&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-28" value="ΣΥΣΤΗΜΑ ΕΚΔΟΣΗΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-6ytyg_gSDtcVMFEcZmj-35" target="-6ytyg_gSDtcVMFEcZmj-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-6ytyg_gSDtcVMFEcZmj-35" target="-6ytyg_gSDtcVMFEcZmj-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-35" value="&lt;div&gt;(4.2)&lt;/div&gt;&lt;div&gt;ΕΝΗΜΕΡΩΣΗ ΥΠΑΛΗΛΟΥ&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-36" value="&lt;div&gt;ΕΙΔΟΠΟΙΗΣΗ ΜΙΣΘΟΥ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-38" value="ΕΙΔΟΠΟΙΗΣΗ ΤΕΧΝΙΚΩΝ ΠΡΟΒΛΗΜΑΤΩΝ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
