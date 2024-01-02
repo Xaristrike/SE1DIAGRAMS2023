@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T18:06:23.761Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="vMFRkTBZIcKXa63kPd1V" version="22.1.16" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-01-02T18:07:36.103Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Az-ggrs0V0reNK1Q48Dc" version="22.1.16" type="github" pages="16">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="1434" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4498,6 +4498,12 @@
         <mxCell id="npLkYL2bOqLXUnJsMwzE-31" value="&lt;div&gt;(4)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΕΦΑΡΜΟΓΗ ΥΠΑΛΗΛΟΥ &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="npLkYL2bOqLXUnJsMwzE-33" target="-6ytyg_gSDtcVMFEcZmj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="npLkYL2bOqLXUnJsMwzE-33" target="-6ytyg_gSDtcVMFEcZmj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="npLkYL2bOqLXUnJsMwzE-33" value="&lt;div&gt;(5)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΕΦΑΡΜΟΓΗ ΔΙΑΧΕΙΡΙΣΤΗ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -4722,6 +4728,12 @@
         </mxCell>
         <mxCell id="-6ytyg_gSDtcVMFEcZmj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.308;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-6ytyg_gSDtcVMFEcZmj-11" target="-6ytyg_gSDtcVMFEcZmj-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-17" value="&lt;div&gt;(5.1)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΕΝΗΜΕΡΩΣΗ ΔΙΑΧΕΙΡΙΣΤΗ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-19" value="&lt;div&gt;(5.2)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΚΟΣΤΟΣ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
