@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T16:48:11.166Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="U26-ZOoWPvLOQtKL3Ws_" version="22.1.16" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-01-02T16:51:23.007Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="BbA-cqw-KqUtca_k0AB7" version="22.1.16" type="github" pages="16">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="1434" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4373,18 +4373,18 @@
           <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OAWgogbQujmO6KOvlpcO-6" value="ΔΙΑΒΑΣΕ ΟΝΟΜΑ ΧΡΗΣΤΗ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OAWgogbQujmO6KOvlpcO-8" value="ΔΙΑΒΑΣΕ ΚΩΔΙΚΟ ΠΡΟΣΒΑΣΗΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OAWgogbQujmO6KOvlpcO-10" value="ΣΥΝΔΕΣΗ ΛΟΓΑΡΙΑΣΜΟΥ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OAWgogbQujmO6KOvlpcO-15" value="&lt;div&gt;ΔΙΑΒΑΣΕ ΗΛΕΚΤΡΟΝΙΚΟ ΤΑΧΥΔΡΟΜΕΙΟ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="npLkYL2bOqLXUnJsMwzE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAWgogbQujmO6KOvlpcO-19" target="npLkYL2bOqLXUnJsMwzE-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OAWgogbQujmO6KOvlpcO-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OAWgogbQujmO6KOvlpcO-19" target="OAWgogbQujmO6KOvlpcO-15">
+        <mxCell id="npLkYL2bOqLXUnJsMwzE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OAWgogbQujmO6KOvlpcO-19" target="npLkYL2bOqLXUnJsMwzE-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OAWgogbQujmO6KOvlpcO-19" value="ΕΓΓΡΑΦΗ ΛΟΓΑΡΙΑΣΜΟΥ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -4398,9 +4398,6 @@
         </mxCell>
         <mxCell id="OAWgogbQujmO6KOvlpcO-26" value="ΔΙΑΒΑΣΕ ΚΩΔΙΚΟ ΠΡΟΣΒΑΣΗΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OAWgogbQujmO6KOvlpcO-27" value="&lt;div&gt;ΔΙΑΒΑΣΕ ΗΛΕΚΤΡΟΝΙΚΟ ΤΑΧΥΔΡΟΜΕΙΟ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OAWgogbQujmO6KOvlpcO-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAWgogbQujmO6KOvlpcO-19" target="OAWgogbQujmO6KOvlpcO-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4418,12 +4415,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="435" as="sourcePoint" />
             <mxPoint x="90" y="385" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OAWgogbQujmO6KOvlpcO-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="189.5" y="440" as="sourcePoint" />
-            <mxPoint x="189.5" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OAWgogbQujmO6KOvlpcO-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.567;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OAWgogbQujmO6KOvlpcO-10" target="OAWgogbQujmO6KOvlpcO-26">
@@ -4455,6 +4446,12 @@
             <mxPoint x="-160" y="230" as="sourcePoint" />
             <mxPoint x="-110" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="npLkYL2bOqLXUnJsMwzE-7" value="&amp;nbsp;ΔΙΑΒΑΣΕ ΟΝΟΜΑ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npLkYL2bOqLXUnJsMwzE-9" value="&lt;div&gt;&amp;nbsp;ΔΙΑΒΑΣΕ ΕΠΙΘΕΤΟ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
