@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T09:50:22.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8Mv9XTiQDtEsDuS1nVWl" version="22.1.16" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-01-05T09:55:09.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ncKycKLXnv-iXVfD0yBu" version="22.1.16" type="github" pages="16">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="1221" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4511,7 +4511,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NdJPIqEsv2jpzqPPVLnr" name="POOT WITH P">
-    <mxGraphModel dx="3917" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3644" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5141,20 +5141,18 @@
         <mxCell id="-6ytyg_gSDtcVMFEcZmj-57" value="(1.1.2)&lt;br&gt;ΔΙΑΒΑΣΕ ΚΩΔΙΚΟΣ ΠΡΟΪΟΝΤΟΣ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2073" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-6ytyg_gSDtcVMFEcZmj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-6ytyg_gSDtcVMFEcZmj-60" target="-6ytyg_gSDtcVMFEcZmj-61" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-6ytyg_gSDtcVMFEcZmj-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1710" y="-120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="-6ytyg_gSDtcVMFEcZmj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-6ytyg_gSDtcVMFEcZmj-60" target="-6ytyg_gSDtcVMFEcZmj-63" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-6ytyg_gSDtcVMFEcZmj-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1530.0000000000005" y="-120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-6ytyg_gSDtcVMFEcZmj-60" value="&lt;div&gt;(1.2)&lt;/div&gt;&lt;div&gt;ΣΥΣΤΗΜΑ&lt;/div&gt;ΠΑΡΑΓΓΕΛΕΙΑΣ&lt;div&gt;&amp;nbsp;ΚΑΥΣΙΜΟΥ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-710" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-6ytyg_gSDtcVMFEcZmj-61" value="ΔΙΑΒΑΣΕ ΤΥΠΟ ΚΑΥΣΙΜΟΥ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-820" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-6ytyg_gSDtcVMFEcZmj-63" value="ΔΙΑΒΑΣΕ ΠΟΣΟΤΗΤΑ ΚΑΥΣΙΜΟΥ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1660" y="-320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-6ytyg_gSDtcVMFEcZmj-65" value="&lt;div&gt;(5.3)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΕΠΕΞΡΓΑΣΕΙΑ ΚΑΤΑΛΟΓΟΥ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2570" y="20" width="120" height="60" as="geometry" />
@@ -5637,6 +5635,51 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1350" y="570" as="sourcePoint" />
             <mxPoint x="-1550" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-118" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;(1.2.1)&lt;/div&gt;ΔΙΑΒΑΣΕ ΠΟΣΟΤΗΤΑ ΚΑΥΣΙΜΟΥ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1953" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-119" value="(1.2.2)&lt;br&gt;ΔΙΑΒΑΣΕ ΚΩΔΙΚΟΣ ΚΑΥΣΙΜΟΥ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1766" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-120" value="(1.2.3)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;ΣΤΙΛΕ ΠΟΣΟΤΗΤΑ ΚΑΥΣΙΜΟΥ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1603" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-121" value="(1.2.4)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;ΣΤΙΛΕ ΚΩΔΙΚΟΣ ΚΑΥΣΙΜΟΥ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1443" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-122" value="(1.2.5)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;ΣΤΙΛΕ ΑΝΑΓΝΩΡΙΣΤΙΚO ΣΤΑΘΜOY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1282" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-123" value="(1.2.6)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;ΑΝΑΜΕΝΕ ΑΠΑΝΤΗΣΗ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1123" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-124" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;(1.2.6.1)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;ΔΙΑΒΑΣΕ ΠΟΣΟΤΗΤΑ ΚΑΥΣΙΜΟΥ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1323" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-125" value="(1.2.6.2)&lt;br&gt;ΔΙΑΒΑΣΕ ΚΩΔΙΚΟΣ ΚΑΥΣΙΜΟΥ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1136" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-126" value="(1.2.6.3)&lt;br&gt;ΔΙΑΒΑΣΕ ΚΩΣΤΟΣ ΠΑΡΑΓΓΕΛΕΙΑΣ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-963" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-127" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXodA17sAZbVNichzjOL-123" target="cXodA17sAZbVNichzjOL-124">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1353" y="130" as="sourcePoint" />
+            <mxPoint x="-1303" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-128" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXodA17sAZbVNichzjOL-123" target="cXodA17sAZbVNichzjOL-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1053" as="sourcePoint" />
+            <mxPoint x="-1253" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-129" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXodA17sAZbVNichzjOL-123" target="cXodA17sAZbVNichzjOL-126">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1043" y="10" as="sourcePoint" />
+            <mxPoint x="-1243" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
