@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T09:26:15.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hSMqQPHuhd4WoEtzdVet" version="22.1.16" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-01-05T09:33:24.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6vR811GHL0hUt2uaErje" version="22.1.16" type="github" pages="16">
   <diagram name="Page-1" id="Eux3F0AucerZkPw8ORN1">
     <mxGraphModel dx="1221" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4511,7 +4511,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NdJPIqEsv2jpzqPPVLnr" name="POOT WITH P">
-    <mxGraphModel dx="3532" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3180" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5033,7 +5033,7 @@
         <mxCell id="-6ytyg_gSDtcVMFEcZmj-17" value="&lt;div&gt;(5.1)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΕΝΗΜΕΡΩΣΗ ΔΙΑΧΕΙΡΙΣΤΗ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2130" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-6ytyg_gSDtcVMFEcZmj-19" value="&lt;div&gt;(5.2)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΚΟΣΤΟΣ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-19" value="&lt;div&gt;(5.2)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΣΥΣΤΗΜΑ ΔΗΜΙΟΥΡΓΙΑΣ ΧΡΗΣΤΩΝ&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2350" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-6ytyg_gSDtcVMFEcZmj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-6ytyg_gSDtcVMFEcZmj-21" target="-6ytyg_gSDtcVMFEcZmj-25" edge="1">
@@ -5117,13 +5117,13 @@
         <mxCell id="-6ytyg_gSDtcVMFEcZmj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-6ytyg_gSDtcVMFEcZmj-49" target="-6ytyg_gSDtcVMFEcZmj-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-6ytyg_gSDtcVMFEcZmj-49" value="&lt;div&gt;(5.2)&lt;br&gt;&lt;/div&gt;&lt;div&gt;ΚΟΣΤΟΣ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-49" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;(5.2)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;ΣΥΣΤΗΜΑ ΔΗΜΙΟΥΡΓΙΑΣ ΧΡΗΣΤΩΝ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2870" y="306" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-6ytyg_gSDtcVMFEcZmj-50" value="ΑΓΟΡΑ ΑΝΤΑΛΑΚΤΙΚΩΝ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-50" value="(5.2.1)&lt;br&gt;ΔΗΜΙΟΥΡΓΙΑ ΥΠΑΛΛΗΛΟΥ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2780" y="536" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-6ytyg_gSDtcVMFEcZmj-52" value="ΑΓΟΡΑ ΚΑΥΣΙΜΟΥ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-6ytyg_gSDtcVMFEcZmj-52" value="(5.2.2)&lt;br&gt;ΔΗΜΙΟΥΡΓΙΑ ΠΕΛΑΤΗ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2980" y="536" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-6ytyg_gSDtcVMFEcZmj-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-6ytyg_gSDtcVMFEcZmj-55" target="-6ytyg_gSDtcVMFEcZmj-56" edge="1">
@@ -5451,6 +5451,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3470" y="840" as="sourcePoint" />
             <mxPoint x="3350" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-67" value="(5.2.1)&lt;br&gt;ΔΗΜΙΟΥΡΓΙΑ ΥΠΑΛΛΗΛΟΥ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-68" value="(5.2.2)&lt;br&gt;ΔΗΜΙΟΥΡΓΙΑ ΠΕΛΑΤΗ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4330" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-70" value="(2.2.6)&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;ΑΠΟΘΗΚΕΥΣΕ ΔΕΔΟΜΕΝΑ ΣΤΟ ΠΙΝΑΚΑ&lt;br&gt;ΕΠΙΣΚΕΠΤΗΣ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="640" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cXodA17sAZbVNichzjOL-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OAWgogbQujmO6KOvlpcO-19" target="cXodA17sAZbVNichzjOL-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1340" y="620" as="sourcePoint" />
+            <mxPoint x="1390" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
